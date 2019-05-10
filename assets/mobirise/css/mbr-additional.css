@@ -1860,7 +1860,7 @@ body {
 .cid-rq0wJXBV2b {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-rq0wJXBV2b .mbr-section-text {
   color: #efefef;
@@ -1905,20 +1905,85 @@ body {
   border: 2px solid #ee1616;
 }
 .cid-rq0wJXBV2b .nav-tabs .nav-link:hover {
-  background: #63e7ce;
+  background: #ff3366;
 }
 .cid-rq0wJXBV2b .nav-tabs .nav-link.active {
-  color: #000000;
+  color: #ffffff;
   font-style: normal;
-  border: 2px solid #63e7ce;
-  background: #63e7ce;
+  border: 2px solid #ff3366;
+  background: #ff3366;
 }
 .cid-rq0wJXBV2b .nav-tabs .nav-link.active:hover {
-  border: 2px solid #63e7ce;
+  border: 2px solid #ff3366;
 }
 .cid-rq0wJXBV2b H2 {
   color: #ffffff;
 }
 .cid-rq0wJXBV2b H4 {
+  color: #149dcc;
+}
+.cid-rq2mQpDB0b {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #000000;
+}
+.cid-rq2mQpDB0b .mbr-section-text {
+  color: #efefef;
+}
+.cid-rq2mQpDB0b .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-rq2mQpDB0b .tabcont {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rq2mQpDB0b .mbr-iconfont {
+  font-size: 48px;
+}
+.cid-rq2mQpDB0b .card-img {
+  margin-bottom: 1.5rem;
+}
+.cid-rq2mQpDB0b .tab-content-row {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rq2mQpDB0b .tab-content {
+  margin-top: 3rem;
+  width: 100%;
+}
+.cid-rq2mQpDB0b .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-rq2mQpDB0b .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #0f7699;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: color .3s;
+  border: 2px solid #0f7699;
+}
+.cid-rq2mQpDB0b .nav-tabs .nav-link:hover {
+  background: #ff3366;
+}
+.cid-rq2mQpDB0b .nav-tabs .nav-link.active {
+  color: #ffffff;
+  font-style: normal;
+  border: 2px solid #ff3366;
+  background: #ff3366;
+}
+.cid-rq2mQpDB0b .nav-tabs .nav-link.active:hover {
+  border: 2px solid #ff3366;
+}
+.cid-rq2mQpDB0b H2 {
+  color: #ffffff;
+}
+.cid-rq2mQpDB0b H4 {
   color: #149dcc;
 }
